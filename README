@@ -1,3 +1,13 @@
 Participantes: Hugo, Erón
 
 La idea se basa, en una aplicación que te recompense por utilizar tanto el autobus como las bicicletas publicas
+
+La aplicación tendría una base de datos para los ususarios que quieran usarla
+
+La ejecución se basaría en dos partes, una para los autobuses, y otra para las bicis
+
+En cuanto a los autobuses, trataría la idea basica, de cuando utilices una cierta cantidad de veces en el año, para el siguiente tendria un descuento o viajes gratuitos. 
+Todo esto llevaria un seguimiento a traves de la aplicación, en la que cuando te subas, el conductor tendria que ingresar un codigo en tu aplicación, para que asi no haya trampas
+
+Mientras que la parte de las bicis, nuestra aplicación estaria vinculada con la de albaBici, para asi poder llevar quien la utiliza y durante cuanto tiempo, con lo que, 
+si llegas a cierta cantidad de veces en el proximo pago del bono, se podria descontar algo
